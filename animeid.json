@@ -40,7 +40,7 @@
 
       "link_redirect": "https://play.google.com/store/apps/details?id=com.google.android.apps.searchlite",
 
-      "show_fake_home": "1",
+      "show_fake_home": "0",
 	  
 	  "config": "aHR0cHM6Ly9kYXNoYnVyc2FuaW1lLm15LmlkL2FwaS8="
 
