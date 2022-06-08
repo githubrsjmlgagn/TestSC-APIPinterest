@@ -29,7 +29,7 @@
   "unity_id": "",
   "unity_banner": "",
   "unity_interstitial": "",
-  "interstitial_inverval": 10,
+  "interstitial_inverval": 1,
   "list_ads": [
     "ADMOB"
   ]
