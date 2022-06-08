@@ -1,0 +1,36 @@
+{
+  "username": "ibang23",
+  "album": [
+    "Cat", "Green Nature"
+  ],
+  "init_jumlah_photo": 100,
+  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native_id": "ca-app-pub-3940256099942544/2247696110xx",
+  "admob_rewarded_id": "ca-app-pub-3940256099942544/5224354917xx",
+  "admob_rewarded_interstitial_id": "",
+  "backup_max_ads": "UNITY",
+  "init_backup_max": "12345",
+  "max_banner": "ae44996e2b723dcf",
+  "max_inters": "2838649e0b560a68",
+  "max_native": "29d0d18da450ae9c",
+  "max_reward": "4ad9a6ea35fd4390",
+  "backup_banner": "Android_Banner",
+  "backup_inters": "Android_Interstitial",
+  "backup_native": "Android_Interstitial",
+  "backup_reward": "Android_Reward",
+  "admob_open_app_id": "",
+  "admob_hpk_1": "",
+  "admob_hpk_2": "",
+  "admob_hpk_3": "",
+  "admob_hpk_4": "",
+  "admob_hpk_5": "",
+  "startapp_app_id": "",
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+  "interstitial_inverval": 10,
+  "list_ads": [
+    "ADMOB"
+  ]
+}
