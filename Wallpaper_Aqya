@@ -1,12 +1,12 @@
 {
   "username": "rsjmalanganggun",
   "album": [
-    "Molang", "Cinamoroll", "Hello Kitty", "unicorn", "Cute Pattern"
+    "Cute Pattern", "Molang", "Hello Kitty", "unicorn", "Cinamoroll"
   ],
   "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
+  "admob_banner_id": "", //ca-app-pub-3940256099942544/6300978111
   "admob_interstitial_id": "",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
+  "admob_native_id": "", //ca-app-pub-3940256099942544/2247696110
   "admob_rewarded_id": "",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "",
