@@ -78,53 +78,11 @@
       "category_id": 3,
       "category_name": "Animal",
       "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/animal.jpg"
-    },
-    {
-      "category_id": 4,
-      "category_name": "Forest",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/forest.jpg"
-    },
-    {
-      "category_id": 5,
-      "category_name": "City",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/city.jpg"
-    },
-    {
-      "category_id": 6,
-      "category_name": "Flower",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/flower.jpg"
-    },
-    {
-      "category_id": 7,
-      "category_name": "Live Wallpaper",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/live.jpg"
-    },
-    {
-      "category_id": 8,
-      "category_name": "Beach",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/beach.jpg"
-    },
-    {
-      "category_id": 9,
-      "category_name": "House",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/house.jpg"
-    },
-    {
-      "category_id": 10,
-      "category_name": "Space",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/space.jpg"
-    },
-    {
-      "category_id": 11,
-      "category_name": "Mountain",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/mountain.jpg"
-    },
-    {
-      "category_id": 12,
-      "category_name": "Road",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/road.jpg"
-    }
+    }	  
   ],
+	
+	
+   "wallpapers": [
     {
       "wallpaper_id": 1,
       "category_name": "Ember and Wade",
@@ -588,8 +546,8 @@
       "wallpaper_thumbnail": "",
       "wallpaper_url":  "https://i.pinimg.com/originals/0c/97/27/0c97271c76dbd5c3bbee2e558c96e4db.jpg"
     }
-
   ],
+	
   "more_apps": [
     {
       "id": 1,
